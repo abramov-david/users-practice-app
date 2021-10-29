@@ -1,0 +1,21 @@
+.user-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 1rem;
+  margin: 20px;
+  width: 90%;
+}
+
+.user-form label {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.user-form input {
+  font-size: 1.2rem;
+}
+
+.user-form button {
+  width: 25%;
+}

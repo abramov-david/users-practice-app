@@ -1,0 +1,14 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: center;
+  background-color: whitesmoke;
+  border-radius: 15px;
+  width: 40%;
+  margin: 0 auto;
+  margin-top: 2%;
+}
+.noDisplay {
+  display: none;
+}
